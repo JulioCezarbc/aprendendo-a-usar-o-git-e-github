@@ -12,3 +12,6 @@ branch teste2
 2 git pull da branch principal
 3 git merge
 4 git push
+
+teste
+teste
